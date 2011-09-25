@@ -1,5 +1,5 @@
 ﻿Dwarf Fortress 2 Minecraft (DF2MC) ReadMe
-version 0.7
+version 0.8
 
 ABOUT:
 DF2MC attempts to convert a Dwarf Fortress local area into a Minecraft map. It
