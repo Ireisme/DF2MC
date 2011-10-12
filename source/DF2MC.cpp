@@ -15,7 +15,7 @@ int main(array<System::String ^> ^args)
 	}
 	else
 	{
-		printf("Fuck You it failed!\n");
+		printf("Failed to load settings.\n");
 	}
 
 	return 0;
